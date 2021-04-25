@@ -12,7 +12,8 @@ body {
   text-align: center;
   font-family: 'Roboto', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: rgb(115, 11, 252);
-  background: #add3ec;
+  background: #05385a;
+  background-image: url('images/GOPR3329.JPG');
 }
 /* Link Styles */
 
@@ -73,7 +74,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 4px dotted rgb(23, 167, 83);
   transition: all .5s;
 }
 header .profile-image:hover {
