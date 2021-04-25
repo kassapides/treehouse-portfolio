@@ -2,7 +2,10 @@
 * { 
   box-sizing: border-box;
 }
-  
+h1 {
+color:#add3ec;
+
+}
 body {
   margin: 0;
   padding: 0;
@@ -159,6 +162,12 @@ a.linkedin {
 }
 a.github {
   background-image: url(images/github.svg);
+}
+a.treehouse {
+  background-image: url(images/Capture.JPG);
+}
+a.bugs {
+  background-image: url(images/instagram.JPG);
 }
 a.social:hover {
   opacity: 1;
