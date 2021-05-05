@@ -1,9 +1,11 @@
 /* Global Layout Set-up */
 * { 
   box-sizing: border-box;
+  text-align: center;
 }
 h1 {
 color:#add3ec;
+
 
 }
 body {
